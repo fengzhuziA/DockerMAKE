@@ -7,6 +7,6 @@
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
 #ghcr.io/open-webui/open-webui:cuda
-docker.io/cospui/opensora
+ai/qwen3-vl:latest
 
 
